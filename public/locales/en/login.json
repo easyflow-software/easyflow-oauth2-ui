@@ -1,0 +1,22 @@
+{
+  "title": "Sign In",
+  "subtitle": "Enter your credentials to access your account",
+  "email": {
+    "label": "Email",
+    "placeholder": "Enter your email address",
+    "required": "Email is required",
+    "invalid": "Please enter a valid email address"
+  },
+  "password": {
+    "label": "Password",
+    "placeholder": "Enter your password",
+    "required": "Password is required",
+    "minLength": "Password must be at least 6 characters"
+  },
+  "submitButton": "Sign In",
+  "forgotPassword": "Forgot your password?",
+  "signUp": {
+    "text": "Don't have an account?",
+    "link": "Sign up"
+  }
+}

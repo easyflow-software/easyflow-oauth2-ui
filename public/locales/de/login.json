@@ -1,0 +1,22 @@
+{
+  "title": "Anmelden",
+  "subtitle": "Geben Sie Ihre Anmeldedaten ein, um auf Ihr Konto zuzugreifen",
+  "email": {
+    "label": "E-Mail",
+    "placeholder": "Geben Sie Ihre E-Mail-Adresse ein",
+    "required": "E-Mail ist erforderlich",
+    "invalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein"
+  },
+  "password": {
+    "label": "Passwort",
+    "placeholder": "Geben Sie Ihr Passwort ein",
+    "required": "Passwort ist erforderlich",
+    "minLength": "Passwort muss mindestens 6 Zeichen lang sein"
+  },
+  "submitButton": "Anmelden",
+  "forgotPassword": "Passwort vergessen?",
+  "signUp": {
+    "text": "Haben Sie noch kein Konto?",
+    "link": "Registrieren"
+  }
+}
