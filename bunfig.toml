@@ -1,0 +1,7 @@
+[install]
+registry = "https://registry.npmjs.org/"
+exact = true
+auto = "auto"
+
+[run]
+bun = true
