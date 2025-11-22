@@ -1,6 +1,7 @@
+"use cache";
 import type { FunctionComponent } from "react";
 import initTranslations from "@/app/i18n";
-import LoginForm from "@/components/auth/login-form";
+import LoginForm from "@/components/login-form/form";
 import TranslationProvider from "@/providers/translations-provider/translations-provider";
 import type { Params } from "../layout";
 
