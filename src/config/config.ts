@@ -21,7 +21,6 @@ function getValidatedEnv(): EnvironmentConfiguration {
   }
 
   // Parse and validate process.env
-  // Zod will automatically strip unknown properties
   serverEnvConfigurationCache = environmentSchema.parse(process.env);
   return serverEnvConfigurationCache;
 }
